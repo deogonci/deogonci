@@ -1,6 +1,5 @@
 # 💫 About Me:
-im a student at maynooth looking for internships. i done python for my leaving cert back in secondary and went on to study computer sciecnec at maynooth university. im in my 3rd year and want to get a intership.
-
+I am a third-year Computer Science student at Maynooth University currently seeking an internship opportunity to gain industry experience and further develop my technical skills. I began my programming journey studying Python for the Leaving Certificate and have since continued developing my knowledge through my Computer Science degree, with a growing interest in software development, programming, and problem-solving.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Divine Odafen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:odafendivine@gmail.com) 
